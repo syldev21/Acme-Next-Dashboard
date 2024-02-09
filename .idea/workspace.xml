@@ -7,7 +7,10 @@
     <list default="true" id="5a3a3f02-ef66-45bf-a00b-7ba9aad038f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/invoices/pagination.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +78,9 @@
       <option name="presentableId" value="Default" />
       <updated>1706369262389</updated>
       <workItem from="1706369268918" duration="3261000" />
+      <workItem from="1706781989463" duration="579000" />
+      <workItem from="1706900369049" duration="1484000" />
+      <workItem from="1707498127512" duration="1988000" />
     </task>
     <servers />
   </component>
